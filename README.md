@@ -5,7 +5,7 @@
 
 ## Description
 
-*Here's the Plan* implements google maps api and geolocator to locate the user, a MySQL database to save user information and location information, and React.js to build the front end of the application. Once the user logs in they will be prompted to choose a locale type such as bakery, bar, restaurant, etc. once they choose an option the api will then go put and fetch locations within a 15km radius that match that locale type. They can then save those locations to an event or create a new one. 
+*Here's the Plan* implements google maps api and geolocator to locate the user, a MySQL database to save user information and location information, and React.js to build the front end of the application. Once the user logs in they will be prompted to choose a locale type such as bakery, bar, restaurant, etc. Once they choose an option the api will then go out and fetch locations within a 15km radius that match that locale type. They can then save those locations to an event or create a new one. 
 
 Still in development is a friend feature to allow other user to attend your events and see exact times, address and location names for the events itinerary.
  
